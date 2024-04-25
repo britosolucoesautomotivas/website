@@ -1,0 +1,24 @@
+{ 
+  "rewrites": [        
+    {
+      "source": "/index",
+      "destination": "/index.html"
+    },
+    {
+      "source": "/contato",
+      "destination": "/contato.html"
+    },
+    {
+      "source": "/levaetraz",
+      "destination": "/levaetraz.html"
+    },
+    {
+      "source": "/quemsomos",
+      "destination": "/quemsomos.html"
+    },
+    {
+      "source": "/servicos",
+      "destination": "/servicos.html"
+    }    
+  ]
+}

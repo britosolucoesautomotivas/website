@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://britomecanica.com.br/</loc>
+    <lastmod>2024-04-04</lastmod>
+    <changefreq>monthly</changefreq>    
+  </url>
+  <url>
+    <loc>https://britomecanica.com.br/servicos/</loc>
+    <lastmod>2024-04-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://britomecanica.com.br/contato/</loc>
+    <lastmod>2024-04-04</lastmod>
+    <changefreq>monthly</changefreq>    
+  </url>
+  <url>
+    <loc>https://britomecanica.com.br/levaetraz/</loc>
+  <lastmod>2024-04-04</lastmod>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://britomecanica.com.br/quemsomos/</loc>
+     <lastmod>2024-04-04</lastmod>
+    <changefreq>monthly</changefreq>
+  </url>
+  
+</urlset>
